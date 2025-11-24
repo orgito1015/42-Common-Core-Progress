@@ -1,0 +1,11 @@
+# Binaries
+a.out
+gnl_*
+gnl
+*.o
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
