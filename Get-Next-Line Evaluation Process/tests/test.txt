@@ -1,0 +1,39 @@
+===== BASIC LINES =====
+Hello world
+This is a simple line
+Another line
+
+===== EMPTY LINES =====
+
+# Above is an empty line
+# Below are two empty lines
+
+
+End of empty lines
+
+===== WHITESPACE VARIANTS =====
+    Leading spaces example
+Trailing spaces example     
+	Tabbed line example
+    Mixed	   whitespace	 here
+
+===== VERY LONG LINE =====
+This_is_a_very_long_line_used_to_test_the_behavior_of_get_next_line_when_the_BUFFER_SIZE_is_small_and_we_need_multiple_reads_to_fetch_the_whole_thing_because_it_is_longer_than_typical_buffers_and_should_be_returned_correctly_without_being_cut_or_corrupted_in_any_way_1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+
+===== LINES WITH SPECIAL CHARS =====
+Line with symbols: !@#$%^&*()_+-=[]{}
+Line with quotes: "double quotes" and 'single quotes'
+Line with pipes ||||| and slashes \\\\////
+
+===== UTF-8 UNICODE TEXT =====
+Unicode characters: äöüß éèê ñ ø å ž š ç
+Emoji: 😀🔥💀🚀
+
+===== MIX OF SHORT & LONG =====
+short
+loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong
+tiny
+medium length line right here
+
+===== LAST LINE WITHOUT NEWLINE =====
+This is the final line with NO newline at the end
