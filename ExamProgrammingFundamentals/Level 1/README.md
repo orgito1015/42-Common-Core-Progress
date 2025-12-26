@@ -6,7 +6,7 @@ Level 1 focuses on validating **C fundamentals**, **string manipulation**, and *
 ## Exercises
 
 - `first_word` – Print the first word of a string
-  `Assignment name  : first_word
+`Assignment name  : first_word
 Expected files   : first_word.c
 Allowed functions: write
 --------------------------------------------------------------------------------
@@ -20,19 +20,6 @@ the string.
 If the number of parameters is not 1, or if there are no words, simply display
 a newline.
 
-Examples:
-
-$> ./first_word "FOR PONY" | cat -e
-FOR$
-$> ./first_word "this        ...    is sparta, then again, maybe    not" | cat -e
-this$
-$> ./first_word "   " | cat -e
-$
-$> ./first_word "a" "b" | cat -e
-$
-$> ./first_word "  lorem,ipsum  " | cat -e
-lorem,ipsum$
-$>`
 - `fizz_buzz` – Standard FizzBuzz logic  
 - `ft_putstr` – Output a string to stdout  
 - `ft_strcpy` – Copy a string  
