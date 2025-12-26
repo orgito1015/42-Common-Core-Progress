@@ -1,3 +1,4 @@
+![42 Common Core Progress](42%20Common%20Core%20Progress.png)
 # 42 Common Core Progress
 
 This repository tracks my progress through the **42 Common Core**.  
