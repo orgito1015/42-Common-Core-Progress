@@ -6,10 +6,10 @@ Level 1 focuses on validating **C fundamentals**, **string manipulation**, and *
 ## Exercises
 
 - `first_word` – Print the first word of a string
-`Assignment name  : first_word
+```
+Assignment name  : first_word
 Expected files   : first_word.c
 Allowed functions: write
---------------------------------------------------------------------------------
 
 Write a program that takes a string and displays its first word, followed by a
 newline.
@@ -19,6 +19,7 @@ the string.
 
 If the number of parameters is not 1, or if there are no words, simply display
 a newline.
+```
 
 - `fizz_buzz` – Standard FizzBuzz logic  
 - `ft_putstr` – Output a string to stdout  
