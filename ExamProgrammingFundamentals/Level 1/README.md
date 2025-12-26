@@ -6,31 +6,41 @@ Level 1 focuses on validating **C fundamentals**, **string manipulation**, and *
 ## Exercises
 
 - `first_word` – Print the first word of a string
-## 📊 Program Flow Diagram
-
+- 
 ```mermaid
 flowchart TD
-    A([Start program]) --> B[i = 0]
+    A([Start program])
+    B[i = 0]
+    C{ac == 2?}
+    D[Read av[1]]
+    E{Is av[1][i] whitespace?}
+    F[i++ (skip spaces)]
+    G{Is av[1][i] > whitespace?}
+    H[write character]
+    I[i++]
+    N[Print newline]
+    Z([Exit program])
 
-    B --> C{ac == 2 ?}
-    C -- No --> N[Print newline]
-    N --> Z([Exit program])
+    A --> B
+    B --> C
 
-    C -- Yes --> D[Read av[1]]
+    C -- No --> N
+    N --> Z
 
-    D --> E{Is av[1][i] whitespace?}
-    E -- Yes --> F[i++<br/>WHY: skip spaces]
+    C -- Yes --> D
+    D --> E
+
+    E -- Yes --> F
     F --> E
 
-    E -- No --> G{Is av[1][i] > whitespace?}
+    E -- No --> G
 
-    G -- Yes --> H[write(av[1][i])<br/>WHY: print first word]
-    H --> I[i++]
+    G -- Yes --> H
+    H --> I
     I --> G
 
     G -- No --> N
 
-    N --> Z
 ```
 - `fizz_buzz` – Standard FizzBuzz logic  
 - `ft_putstr` – Output a string to stdout  
