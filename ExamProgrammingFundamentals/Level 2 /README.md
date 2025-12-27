@@ -3,7 +3,7 @@
 This directory contains solutions for **Level 2** of the **Exam Programming Fundamental**.  
 Level 2 focuses on **string comparison**, **string reversal**, **set operations on strings**, and **basic parsing logic**, following strict **42 Norm** rules.
 
-## Assignments (50 pts)
+## Exercises
 
 - `ft_strcmp` – Compare two strings lexicographically  
 - `ft_strrev` – Reverse a string in place  
