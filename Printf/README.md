@@ -1,3 +1,4 @@
+![alt text](printf.jpg)
 *This project has been created as part of the 42 curriculum by Orgito Leka.*
 
 # ft_printf
