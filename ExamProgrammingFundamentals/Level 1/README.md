@@ -22,7 +22,7 @@ a newline.
 
 This program takes exactly one command-line argument and prints the first word of that argument to the standard output (usually the terminal). A "word" here is defined as a sequence of non-whitespace characters. After printing the first word, it outputs a newline character.
 Detailed Explanation
-**1. Included Header**
+1. Included Header
 
 #include <unistd.h> // For the write() system call
 
