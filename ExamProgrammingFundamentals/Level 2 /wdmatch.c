@@ -2,10 +2,10 @@
 
 int main(int ac, char **av)
 {
-        int i;
+    int i;
 	int j;
 
-        i=0;
+    i=0;
 	j=0;
 
 	if(ac == 3)
