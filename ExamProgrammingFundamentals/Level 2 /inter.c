@@ -7,12 +7,11 @@ int ft_putchar(char c)
 
 int main(int ac, char **av)
 {
-        int i;
+    int i;
 	i =0;
-
 	int j;
-
-        int lookup[256] = {};
+	
+    int lookup[256] = {};
 
         if(ac == 3)
         {
