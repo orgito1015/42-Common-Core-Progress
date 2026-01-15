@@ -14,7 +14,7 @@ int main(int ac, char **av)
                 c = 'a';
             else if (c == 'Z')
                 c = 'A';
-            else if ((c >= 'a' && c <= 'y') || (c >= 'A' && c <= 'Y'))
+            else if ((c >= 'a' && c <= 'y') || (c >= 'A' && c <= 'Y')) //KUJDES KLLAPAT BRENDA, PERDOR -Wall -Werror -Wextra
                 c++;
             write(1, &c, 1);
             i++;
