@@ -1,12 +1,12 @@
-# 📚 Exam Programming Fundamentals
+#  Exam Programming Fundamentals
 
 This directory contains comprehensive solutions for the **42 Common Core Programming Fundamentals Exam**. The exam is structured into **4 progressive levels**, each testing increasingly complex C programming concepts and problem-solving skills.
 
-## 📋 Overview
+##  Overview
 
 The **Exam Programming Fundamentals** is a critical milestone in the 42 curriculum, designed to validate foundational programming skills under timed conditions. This repository provides solutions for all levels, demonstrating proper implementation techniques while adhering to **42 Norm** standards.
 
-## 🎯 Exam Structure
+## Exam Structure
 
 The exam consists of **4 levels** with increasing difficulty:
 
@@ -21,7 +21,7 @@ Core concepts covered:
 - Basic search and replace algorithms
 - Integer operations (swap)
 
-📖 [View Level 1 README](./Level%201/README.md)
+ [View Level 1 README](./Level%201/README.md)
 
 **Exercises**:
 - `first_word` - Extract and print the first word from a string
@@ -45,7 +45,7 @@ Core concepts covered:
 - Pattern matching algorithms
 - String to integer conversion
 
-📖 [View Level 2 README](./Level%202%20/README.md)
+ [View Level 2 README](./Level%202%20/README.md)
 
 **Exercises**:
 - `ft_strcmp` - Compare two strings lexicographically
@@ -85,7 +85,7 @@ Core concepts covered:
 - `atoi` - Convert a string to an integer
 - `ft_list_foreach` - Apply a function to each element of a linked list
 
-## 🛠️ Technical Requirements
+##  Technical Requirements
 
 ### Compilation
 ```bash
@@ -121,7 +121,7 @@ gcc -Wall -Wextra -Werror <exercise.c> -o <exercise>
 | Level 4 | 3 | ✅ 3/3 | ⭐⭐⭐⭐ |
 | **Total** | **18** | **✅ 18/18** | - |
 
-## 💡 Exam Tips
+##  Exam Tips
 
 1. **Read carefully**: Understand the exact requirements before coding
 2. **Test thoroughly**: Check edge cases (NULL, empty strings, negative numbers)
@@ -130,7 +130,7 @@ gcc -Wall -Wextra -Werror <exercise.c> -o <exercise>
 5. **Time management**: Start with exercises you're most comfortable with
 6. **Practice**: Repetition is key to exam success
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```
 ExamProgrammingFundamentals/
@@ -147,7 +147,7 @@ ExamProgrammingFundamentals/
     └── [3 exercise files + linked list implementations]
 ```
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 By completing these exercises, students will master:
 - ✅ String manipulation and parsing
@@ -157,13 +157,13 @@ By completing these exercises, students will master:
 - ✅ 42 Norm compliance
 - ✅ Problem-solving under time constraints
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [42 Norminette Documentation](https://github.com/42School/norminette)
 - [42 Exam Guide](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
 - Practice with similar exercises on [Examshell](https://github.com/JCluzet/42_EXAM)
 
-## 🙏 Credits
+##  Credits
 
 Special thanks to the contributors who helped develop these solutions:
 
