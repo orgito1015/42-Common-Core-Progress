@@ -1,6 +1,6 @@
 # Level 3 – Exam Programming Fundamentals - 42 Common Core Exam
 
-This directory contains solutions for **Level 3** of the **Exam Programming Fundamentals**.  
+This directory contains solutions for **Level 3** of the **Exam Programming Fundamental**.  
 Level 3 focuses on **dynamic memory allocation**, **linked list operations**, and **range generation algorithms**, following strict **42 Norm** rules.
 
 ## Exercises
@@ -63,4 +63,3 @@ typedef struct    s_list
 ## Goal
 
 This level validates the ability to work with **dynamic memory allocation** using `malloc`, manipulate **linked lists**, and implement **range generation algorithms** required to pass the **Level 3 Common Core Exam**.
-
