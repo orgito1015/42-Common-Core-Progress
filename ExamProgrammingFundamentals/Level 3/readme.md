@@ -63,3 +63,4 @@ typedef struct    s_list
 ## Goal
 
 This level validates the ability to work with **dynamic memory allocation** using `malloc`, manipulate **linked lists**, and implement **range generation algorithms** required to pass the **Level 3 Common Core Exam**.
+
