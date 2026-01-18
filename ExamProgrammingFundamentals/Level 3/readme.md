@@ -1,6 +1,6 @@
 # Level 3 – Exam Programming Fundamentals - 42 Common Core Exam
 
-This directory contains solutions for **Level 3** of the **Exam Programming Fundamental**.  
+This directory contains solutions for **Level 3** of the **Exam Programming Fundamentals**.  
 Level 3 focuses on **dynamic memory allocation**, **linked list operations**, and **range generation algorithms**, following strict **42 Norm** rules.
 
 ## Exercises
