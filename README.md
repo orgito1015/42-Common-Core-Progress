@@ -157,7 +157,6 @@ make
 
 ```
 42-Common-Core-Progress/
-├── 42 Common Core Progress.png        # Repository banner
 ├── README.md                          # This file
 ├── libft-full/                        # Complete libft implementation
 ├── Get-Next-Line/                     # GNL main implementation
