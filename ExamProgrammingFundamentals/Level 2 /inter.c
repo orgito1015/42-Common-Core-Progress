@@ -11,7 +11,7 @@ int main(int ac, char **av)
 	i =0;
 	int j;
 	
-    int lookup[256] = {};
+    int seen[256] = {};
 
         if(ac == 3)
         {
@@ -21,9 +21,9 @@ int main(int ac, char **av)
                         j=0;
                         while(av[2][j])
                         {
-                                if(av[1][i] ==av[2][j] && !lookup[(int)av[2][j]])
+                                if(av[1][i] ==av[2][j] && !seen[(int)av[2][j]])
                                 {
-                                lookup[(int)av[2][j]]=1;
+                                seen[(int)av[2][j]]=1;
                                 ft_putchar(av[2][j]);
 
                                 }
