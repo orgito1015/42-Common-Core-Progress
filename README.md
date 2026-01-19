@@ -86,7 +86,7 @@ Complete solutions for all 4 levels of the 42 Common Core Programming Fundamenta
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This repository serves multiple objectives:
 
@@ -98,7 +98,7 @@ This repository serves multiple objectives:
 
 ---
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 - **Language**: C
 - **Compiler**: `gcc` with flags: `-Wall -Wextra -Werror`
@@ -120,7 +120,7 @@ This repository serves multiple objectives:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Unix-based operating system (Linux/macOS)
@@ -153,7 +153,7 @@ make
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 42-Common-Core-Progress/
@@ -169,7 +169,7 @@ make
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - All projects are **Norminette compliant**
 - No memory leaks in any implementation
@@ -193,13 +193,13 @@ While this is a personal progress repository, feedback and suggestions are alway
 
 ---
 
-## ⚖️ License
+##  License
 
 This repository is for educational purposes. Please respect 42's academic integrity policies when using these resources.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Special thanks to:
 - The 42 Network for providing an innovative peer-to-peer learning environment
