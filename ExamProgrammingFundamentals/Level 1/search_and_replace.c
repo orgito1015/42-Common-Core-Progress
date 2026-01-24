@@ -10,7 +10,7 @@ int main(int ac, char *av[])
         i = 0; // Start from the first character of av[1] (the input string)
         
         // Loop through each character of the string until we reach '\0' (end of string)
-        while (av[1][i])
+        while (av[1][i] && av[2][1] == '\0' && av[3][1] == '\0')
         {
             // If the current character matches the target character (av[2][0])
             if (av[1][i] == av[2][0])
