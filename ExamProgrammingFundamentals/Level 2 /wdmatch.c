@@ -7,7 +7,6 @@ int main(int ac, char **av)
 
     if (ac == 3)
     {
-        // check if all characters of av[1] appear in order in av[2]
         while (av[1][i] && av[2][j])
         {
             if (av[1][i] == av[2][j])
@@ -15,7 +14,6 @@ int main(int ac, char **av)
             j++;
         }
 
-        // if we reached the end of av[1], all chars were matched
         if (av[1][i] == '\0')
             write(1, av[1], i);
     }
