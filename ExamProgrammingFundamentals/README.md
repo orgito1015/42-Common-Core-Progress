@@ -2,6 +2,17 @@
 
 This directory contains comprehensive solutions for the **42 Common Core Programming Fundamentals Exam**. The exam is structured into **4 progressive levels**, each testing increasingly complex C programming concepts and problem-solving skills.
 
+## 📖 Complete Guide Available
+
+**[../EXERCISES_EXPLAINED.md](../EXERCISES_EXPLAINED.md)** - A comprehensive guide that explains **every single exercise** in detail with:
+- Problem statements and requirements
+- Step-by-step approach and logic breakdowns
+- Detailed implementation explanations
+- Key concepts, edge cases, and examples
+- Input/output demonstrations
+
+---
+
 ##  Overview
 
 The **Exam Programming Fundamentals** is a critical milestone in the 42 curriculum, designed to validate foundational programming skills under timed conditions. This repository provides solutions for all levels, demonstrating proper implementation techniques while adhering to **42 Norm** standards.
@@ -36,7 +47,7 @@ Core concepts covered:
 ### Level 2 - Intermediate Operations
 **Focus**: String comparison, parsing, set operations  
 **Difficulty**: ⭐⭐  
-**Exercises**: 5 problems
+**Exercises**: 6 problems
 
 Core concepts covered:
 - Lexicographic string comparison
@@ -48,6 +59,7 @@ Core concepts covered:
  [View Level 2 README](./Level%202%20/README.md)
 
 **Exercises**:
+- `ft_atoi` - Convert a string to an integer
 - `ft_strcmp` - Compare two strings lexicographically
 - `ft_strrev` - Reverse a string in place
 - `inter` - Display common characters between two strings (intersection)
@@ -72,18 +84,21 @@ Core concepts covered:
 ### Level 4 - Complex Algorithms
 **Focus**: Advanced conversions, list operations  
 **Difficulty**: ⭐⭐⭐⭐  
-**Exercises**: 3 problems
+**Exercises**: 5 problems
 
 Core concepts covered:
 - Integer to string conversion
 - String to integer parsing
 - Linked list iteration with function application
-- Memory allocation for dynamic strings
+- Linked list sorting and manipulation
+- String splitting and memory allocation
 
 **Exercises**:
 - `ft_itoa` - Convert an integer to a string
-- `atoi` - Convert a string to an integer
 - `ft_list_foreach` - Apply a function to each element of a linked list
+- `ft_list_remove_if` - Remove elements from a linked list based on a condition
+- `ft_split` - Split a string into an array of words
+- `sort_list` - Sort a linked list using a comparison function
 
 ##  Technical Requirements
 
@@ -116,10 +131,10 @@ gcc -Wall -Wextra -Werror <exercise.c> -o <exercise>
 | Level | Exercises | Completed | Difficulty |
 |-------|-----------|-----------|------------|
 | Level 1 | 8 | ✅ 8/8 | ⭐ |
-| Level 2 | 5 | ✅ 5/5 | ⭐⭐ |
+| Level 2 | 6 | ✅ 6/6 | ⭐⭐ |
 | Level 3 | 2 | ✅ 2/2 | ⭐⭐⭐ |
-| Level 4 | 3 | ✅ 3/3 | ⭐⭐⭐⭐ |
-| **Total** | **18** | **✅ 18/18** | - |
+| Level 4 | 5 | ✅ 5/5 | ⭐⭐⭐⭐ |
+| **Total** | **21** | **✅ 21/21** | - |
 
 ##  Exam Tips
 
