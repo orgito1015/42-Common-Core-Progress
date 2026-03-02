@@ -167,7 +167,6 @@ By completing these exercises, students will master:
 
 Special thanks to the contributors who helped develop these solutions:
 
-A REALLY SP
 - [@fabiaballa-42](https://github.com/fabiaballa-42)
 - [@vinibrahaj](https://github.com/vinibrahaj)
 - [@ArsenScorpio05](https://github.com/ArsenScorpio05)
