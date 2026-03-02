@@ -171,7 +171,6 @@ Special thanks to the contributors who helped develop these solutions:
 - [@vinibrahaj](https://github.com/vinibrahaj)
 - [@ArsenScorpio05](https://github.com/ArsenScorpio05)
 - [@Adrianov03](https://github.com/Adrianov03)
-- [@helenkace42](https://github.com/helenakace42)
 
 ---
 
