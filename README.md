@@ -7,6 +7,15 @@
 This repository tracks my journey through the **42 Common Core** curriculum.  
 It includes complete project implementations, evaluation processes, comprehensive documentation, and full solutions for all completed projects.
 
+## 📖 New: Comprehensive Exercise Explanations
+
+**[EXERCISES_EXPLAINED.md](./EXERCISES_EXPLAINED.md)** - A complete guide explaining **every single exercise** from all 4 levels of the Programming Fundamentals Exam. Each exercise includes:
+- Problem statement and requirements
+- Step-by-step approach and logic breakdown
+- Detailed implementation explanations
+- Key concepts and edge cases
+- Real examples with input/output
+
 ---
 
 ## 📂 Projects
@@ -75,14 +84,16 @@ Advanced sorting algorithm project that sorts integers using two stacks and a li
 ---
 
 #### 🔹 [ExamProgrammingFundamentals](./ExamProgrammingFundamentals)
-**Status**: ✅ Completed (18/18 exercises)  
+**Status**: ✅ Completed (21/21 exercises)  
 Complete solutions for all 4 levels of the 42 Common Core Programming Fundamentals Exam.
 
 **Structure**:
 - **Level 1** (8 exercises): Basic string manipulation and I/O
-- **Level 2** (5 exercises): Intermediate string operations and parsing
+- **Level 2** (6 exercises): Intermediate string operations and parsing
 - **Level 3** (2 exercises): Dynamic memory allocation and linked lists
-- **Level 4** (3 exercises): Advanced conversions and complex algorithms
+- **Level 4** (5 exercises): Advanced conversions and complex algorithms
+
+📖 **[View Comprehensive Exercise Explanations](./EXERCISES_EXPLAINED.md)** - Detailed explanation of every single exercise with approach, logic, and implementation details
 
 ---
 
