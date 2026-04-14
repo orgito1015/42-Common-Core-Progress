@@ -4,36 +4,59 @@
 
 # 42 Common Core Progress
 
-This repository documents my progress through the **42 Common Core** curriculum. The actual project source code is hosted in a separate repository linked below.
+This repository documents my progress through the 42 Common Core curriculum, including project implementations, evaluation process notes, and exam practice material.
 
 ---
 
-## Projects Repository
+## Repository Scope
 
-All project implementations, evaluation processes, and full solutions are available here:
+This repository includes:
 
-**[42 Common Core Projects](https://github.com/orgito1015/YOUR_OTHER_REPO)**
-
----
-
-## Progress Overview
-
-| Project | Status | Key Concepts |
-|---------|--------|--------------|
-| libft | Complete | Memory management, String manipulation |
-| Get Next Line | Complete | File I/O, Static variables, Buffer handling |
-| ft_printf | Complete | Variadic functions, Format parsing |
-| Push_Swap | Complete | Sorting algorithms, Algorithm optimization |
-| Exam Rank 02 | Complete | Problem solving, Time management |
+- Core C projects from the Common Core track
+- Evaluation process guides for selected projects
+- Exam preparation repositories for C and Python algorithm exercises
+- Additional learning tracks linked to ongoing work
 
 ---
 
-## Technical Stack
+## Projects and Tracks
 
-- **Language**: C
-- **Compiler**: `gcc` with flags `-Wall -Wextra -Werror`
-- **Norm**: 42 Norminette
-- **Build System**: Makefiles
+| Area | Folder / Resource | Focus |
+|------|-------------------|-------|
+| libft | `libft-full/` | Standard C library reimplementation, memory and string utilities |
+| get_next_line | `Get-Next-Line/` | Buffered file descriptor reading, state management |
+| ft_printf | `Printf/` | Variadic functions and format-specifier handling |
+| push_swap | `Push_Swap Full Project/` | Stack-based sorting and algorithm strategy design |
+| Inception | `Inception/` | Docker, service orchestration, and infrastructure fundamentals |
+| Object Oriented Programming | `Object Oriented Programming/` | External Python OOP track and related work |
+
+---
+
+## Exams and Practice Material
+
+| Area | Folder | Notes |
+|------|--------|-------|
+| Exam Programming Fundamentals | `ExamProgrammingFundamentals/` | Multi-level C exam exercises (Levels 1-4) |
+| Basic Python Algorithms | `ExamBasicPythonAlgorithms/` | Python algorithm exercises organized by level |
+| Exercise Explanations | `EXERCISES_EXPLAINED.md` | Consolidated explanations for exam exercises |
+
+---
+
+## Evaluation Process Documentation
+
+The repository also includes dedicated evaluation process notes for:
+
+- `Get-Next-Line Evaluation Process/`
+- `Printf Evaluation Process/`
+
+---
+
+## Technical Profile
+
+- Primary language: C
+- Additional language: Python
+- Tooling: GCC, Makefile-based builds, Docker (Inception track)
+- Standards: 42 Norminette and project-specific constraints
 
 ---
 
@@ -47,4 +70,4 @@ GitHub: [@orgito1015](https://github.com/orgito1015)
 
 ## License
 
-This repository is for educational purposes. Please respect 42's academic integrity policies when using these resources.
+This repository is for educational purposes. Please respect 42's academic integrity policies when using these materials.
